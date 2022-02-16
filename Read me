@@ -1,0 +1,15 @@
+
+Machine Learning is being used for the analysis of the importance of
+clinical parameters and their combinations for prognosis, e.g. prediction
+of disease progression, extraction of medical knowledge for outcome
+research, therapy planning and support, and for the overall patient
+management. But, the research in machine learning methods for
+medical applications, to-date remains centred on technological issues
+and is mostly application driven. However, in order to answer
+fundamental questions and acquire useful insight in the performance
+and behaviour of Machine Learning methods in a medical context, it is
+important to enhance our understanding of Machine Learning
+algorithms.
+In todays era, several experiments are conducted on medical data sets
+using multiple classifiers and feature selection techniques. Much of the
+research on breast cancer datasets can be found in the literature
